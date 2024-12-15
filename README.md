@@ -4,6 +4,8 @@
 
 The Angry Birds Game is a JavaScript-based 2D physics game inspired by the popular Angry Birds franchise. Players use a slingshot to launch birds at structures and pigs with the objective of destroying all the pigs and scoring points. The game incorporates unique bird abilities, different pig types, and interactive gameplay elements.
 
+![Angry Birds screen](assets/images/project2.png)
+
 ## Features
 
 - Slingshot Mechanics: Launch birds by dragging and releasing the slingshot.
